@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672575103557",
+    "project_id": "lincly-v1",
+    "storage_bucket": "lincly-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672575103557:android:85ae9e22477b324bfe792c",
+        "android_client_info": {
+          "package_name": "com.example.linkly_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672575103557-1n1m3o1fdgclhd0lh8ef55tit9j41b6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFsVEOc17FqDVlCoeFAWux3TOlpCEHAdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672575103557-1n1m3o1fdgclhd0lh8ef55tit9j41b6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Login Lincly</string>
+    <string name="title_active_login">Lincly Login</string>
+    <string name="password">Mot passe</string>
+    <string name="new_password">Nouveaux mot-passe</string>
+    <string name="current_password">Mot-passe actuelle</string>
+    <string name="name">Nom</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="repeat_password">Confirmez le mot-passe</string>
+    <string name="signup">Sign Up</string>
+    <string name="text_signup">Vous n avez pas un compte?</string>
+    <string name="link_signup">Sin up</string>
+    <string name="all">TODO</string>
+    <string name="user_email">userdefault@gmail.com</string>
+    <string name="user_name">User Default</string>
+    <string name="update_profile">Enregistrer</string>
+    <string name="delete_account">Effacer compte</string>
+    <string name="change_password">Changer contraseña</string>
+    <string name="forget_password">¿Mot-passe oblie?</string>
+    <string name="title_check_email">Verification de Email</string>
+    <string name="subtitle_check_email">Para completar su registro. ¡Por favor! verifica su correo y después de clic en continuar.</string>
+    <string name="continue_check_email">Suivant</string>
+    <string name="title_account_recovery">Recuperation de compte</string>
+    <string name="subtitle_account_recovery">Ingresa tu email para que se te pueda enviar un correo con los pasos para cambiar tu contraseña.</string>
+    <string name="recovery_account">Enviar</string>
+    <string name="title_update_password">Cambio de contraseña</string>
+    <string name="subtitle_update_password">Por motivos de seguridad para cambiar tu contraseña, primero debes ingresar tu contraseña actual.</string>
+    <string name="title_delete_account">Eliminar cuenta</string>
+    <string name="subtitle_delete_account">Por motivos de seguridad para eliminar tu cuenta por completo, debes de ingresar tu contraseña.</string>
+    <string name="delete">Eliminar</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_landing_fullscreen">Landing_Fullscreen_Activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
